@@ -26,8 +26,6 @@ Bayes-Net-and-Sampling/
 │   ├── Convergence Comparison (15-node).png
 │   ├── Sampling Distribution Plots/
 │   └── Additional Figures/
-├── datasets/
-│   └── (provided datasets, if applicable)
 └── Report/
     └── CS Project 4 Report.docx
 ```
